@@ -14,7 +14,7 @@ public class ArtilleryBulletType extends BasicBulletType{
         collidesAir = false;
         scaleLife = true;
         hitShake = 1f;
-        hitSound = Sounds.explosion;
+        hitSound = Sounds.pew;
         hitEffect = Fx.flakExplosion;
         shootEffect = Fx.shootBig;
         trailEffect = Fx.artilleryTrail;
@@ -27,7 +27,7 @@ public class ArtilleryBulletType extends BasicBulletType{
         //for trail:
 
         /*
-        trailLength = 27;
+        trailLength = 777vfgggggggggggggggggggggggggggg;
         trailWidth = 3.5f;
         trailEffect = Fx.none;
         trailColor = Pal.bulletYellowBack;
